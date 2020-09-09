@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ehsanyousefi/samiz-test-form.git/static/css/main.5dcd9e18.chunk.css",
+    "main.js": "/ehsanyousefi/samiz-test-form.git/static/js/main.181780ea.chunk.js",
+    "main.js.map": "/ehsanyousefi/samiz-test-form.git/static/js/main.181780ea.chunk.js.map",
+    "runtime-main.js": "/ehsanyousefi/samiz-test-form.git/static/js/runtime-main.e9cfbde6.js",
+    "runtime-main.js.map": "/ehsanyousefi/samiz-test-form.git/static/js/runtime-main.e9cfbde6.js.map",
+    "static/js/2.a0381f6e.chunk.js": "/ehsanyousefi/samiz-test-form.git/static/js/2.a0381f6e.chunk.js",
+    "static/js/2.a0381f6e.chunk.js.map": "/ehsanyousefi/samiz-test-form.git/static/js/2.a0381f6e.chunk.js.map",
+    "index.html": "/ehsanyousefi/samiz-test-form.git/index.html",
+    "precache-manifest.e1f17ff1cc7c7869f2c1227d9d6c5574.js": "/ehsanyousefi/samiz-test-form.git/precache-manifest.e1f17ff1cc7c7869f2c1227d9d6c5574.js",
+    "service-worker.js": "/ehsanyousefi/samiz-test-form.git/service-worker.js",
+    "static/css/main.5dcd9e18.chunk.css.map": "/ehsanyousefi/samiz-test-form.git/static/css/main.5dcd9e18.chunk.css.map",
+    "static/js/2.a0381f6e.chunk.js.LICENSE.txt": "/ehsanyousefi/samiz-test-form.git/static/js/2.a0381f6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9cfbde6.js",
+    "static/js/2.a0381f6e.chunk.js",
+    "static/css/main.5dcd9e18.chunk.css",
+    "static/js/main.181780ea.chunk.js"
+  ]
+}
